@@ -1,61 +1,46 @@
 ---
-title: xxx 的文档
+title: 操作系统教学交流和资源收集
 titleOnly: true
 weight: 1
 bookToc: false
 ---
 
-# 文档模板
+# 操作系统教学交流和资源收集网站
 
-阅读地址：<https://kern-crates.github.io/hugo-book-template>
+阅读地址：<https://oscourse-cn.github.io>
 
-仓库地址：<https://github.com/kern-crates/hugo-book-template>
+仓库地址：<https://github.com/oscourse-cn/oscourse-cn.github.io>
 
-## 首次使用
+## 宗旨
 
-1. 创建一个 Github 仓库，假设为 my-doc
-2. 将该模板下载至本地，并上传至 Github 仓库
+为方便高校计算机专业操作系统课的教学，操作系统课的老师们以开源方式维护本组织中的所有仓库；维护信息围绕操作系统课的教学展开，内容包括教学研讨会、操作系统比赛、开源项目，以及操作系统课教学中的教材、讲稿、实验和考试等素材。
 
-```bash
-# 下载模板到 my-doc 目录，并拉取 hugo-book 子模块
-git clone https://github.com/kern-crates/hugo-book-template.git my-doc --recursive
+网站维护者严格遵循知识产权规则，本网站仅收集公开信息。
 
-# 进入 my-doc 目录
-cd my-doc
+### 教学研讨会
 
-# 删除旧仓库记录，重新，初始化并设置成你自己的仓库地址
-rm .git -rf
-git init
-git remote add origin your-repo-url # 💡: 修改此处
+#### 操作系统教学研讨会（线下）
 
-# 修改内容
+#### 线上教学研讨
 
-# 推送提交
-git commit -m "init"
-git push --set-upstream origin main
-```
+20260517-线上教学研讨：人工智能技术对操作系统课的影响
 
-3. Github 设置从 Github Action 中部署 Pages。具体见 [#1](https://github.com/kern-crates/hugo-book-template/issues/1)。
-4. 在 `hugo.toml` 文件修改你的仓库等信息，尤其那些带 `💡` 的地方
-5. 开启 giscus 评论区，具体见 [#3](https://github.com/kern-crates/hugo-book-template/issues/3)。  
-   如果你不想要评论区，请把 `layouts/partials/docs/comments.html`
-   文件删除，因为它关联了这个模板仓库的评论区。
+### 操作系统比赛
 
-## 添加/更新文档
+全国大学生操作系统比赛
 
-在 `content/` 目录添加或者更新文档。
+全国研究生操作系统比赛
 
-以下是一些 make 命令简化流程：
+### 操作系统课教学素材
 
-* `make new doc=design/hi.md`：从模板中创建 `content/design/hi.md` 文件
-* `make serve`：本地预览文档，访问地址默认为 `localhost:3001`
-  * 如需修改地址和端口，使用 `make serve BIND=xxx PORT=xxx`
-* `make generate`：在 public 目录中生成静态网页
-  * 通常需要 baseURL 调整地址：`make generate baseURL=your-url`
+#### 操作系统课教材
 
-注意：make 命令将把 README.md 的内容复制到 `content/_index.md`，以保持生成的网页主页与 README 内容一致。
+OSTEP
 
-## 相关链接
+#### 操作系统课讲稿
 
-* AsyncOS 文档 ( <https://asyncos.github.io> ）采用相同的结构和模板，可以参考它的内容
-* [hugo-book](https://github.com/alex-shpak/hugo-book) 主题
+#### 操作系统课教学实验
+
+### 操作系统相关开源项目
+
+### 开源毕设
