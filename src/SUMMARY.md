@@ -10,6 +10,7 @@
   - [课程通知](./Tsinghua-oscourse-OsTrain-2026/course-notification.md)
 - [开源操作系统社区活动](./os2events/index.md)
   - [20260905-组件化嵌入式和微内核操作系统](./os2events/2026/0905.md)
+  - [20260904-开源毕设征集](./os2events/2026/0904.md)
   - [20260903-2026年开源毕设结果汇总](./os2events/2026/0903.md)
   - [20260617-第八期“网安泉城”讲座：组件化嵌入式操作系统](./os2events/2026/0617.md)
 - [贡献指南](./how-to-contribute.md)
