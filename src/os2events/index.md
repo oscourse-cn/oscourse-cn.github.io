@@ -1,7 +1,10 @@
-[索引](https://oscourse-cn.github.io/os2events/index.html)（本文档、[编辑链接](https://github.com/oscourse-cn/oscourse-cn.github.io/src/os2events/index.md)）：这里所有开源操作系统社区活动的列表。
+[索引]((./os2events/index.md))（本文档、[编辑链接](https://github.com/oscourse-cn/oscourse-cn.github.io/src/os2events/index.md)）：这里所有开源操作系统社区活动的列表。
 
 ## 开源操作系统社区学术报告
-[20260617-第八期“网安泉城”讲座：组件化嵌入式操作系统](https://www.yuque.com/xyong-9fuoz/hg8kgr/gkgghi4tk26zpmtx)
+
+[20260905-开源操作系统社区技术报告：组件化嵌入式和微内核操作系统](./os2events/2026/0905.md)
+
+[20260617-第八期“网安泉城”讲座：组件化嵌入式操作系统](./os2events/2026/0617.md)
 
 [20260419-开源操作系统训练营实习总结报告：内核组件设计和改进](https://www.yuque.com/xyong-9fuoz/hg8kgr/cvbvasbkmttrf30m)
 
