@@ -18,7 +18,7 @@
 
 ### 调课安排
 
-通常十一假期会有调课安排，准确安排待定。
+<img src="./figs/timetable-change.png" style="width: 300px; height: auto;" />
 
 ## 课程安排
 依据[2026年秋季学期清华大学校历](https://www.tsinghua.edu.cn/xl/2026qiuji.jpg)，在开学前对操作系统课的日程安排如下。这个安排在教学过程中有可能进行临时的微调。故这个日程仅供同学们参考。
