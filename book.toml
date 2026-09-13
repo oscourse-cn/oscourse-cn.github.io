@@ -12,3 +12,7 @@ default-theme = "light"
 git-repository-url = "https://github.com/oscourse-cn/oscourse-cn.github.io"
 edit-url-template = "https://github.com/oscourse-cn/oscourse-cn.github.io/edit/main/{path}"
 additional-js = ["giscus.js"]
+
+[output.html.fold]
+enable = true
+level = 0
