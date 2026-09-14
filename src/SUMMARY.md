@@ -13,6 +13,7 @@
 - [清华操作系统专题训练课 2026](./OsTain2026/index.md)
   - [课程安排](./OsTain2026/course-schedule.md)
   - [课程通知](./OsTain2026/course-notification.md)
+  - [课后练习](./OsTain2026/homework.md)
 - [开源操作系统社区活动](./os2events/index.md)
   - [20260905-组件化嵌入式和微内核操作系统](./os2events/2026/0905.md)
   - [20260904-开源毕设征集](./os2events/2026/0904.md)
