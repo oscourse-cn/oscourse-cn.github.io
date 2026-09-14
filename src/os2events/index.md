@@ -39,7 +39,7 @@
 
 [20231008-开源毕设题目和参与同学征集](https://www.yuque.com/xyong-9fuoz/hg8kgr/lg625y278c2f60sd)
 
-[20230701-开源毕设技术分享](https://www.yuque.com/xyong-9fuoz/hg8kgr/qip6ho2p205ucide)<font style="color:rgb(38, 38, 38);"></font>
+[20230701-开源毕设技术分享](https://www.yuque.com/xyong-9fuoz/hg8kgr/qip6ho2p205ucide)
 
 [20230616-开源毕设技术分享](https://www.yuque.com/xyong-9fuoz/hg8kgr/za29qlmfzq31c6vy)
 
