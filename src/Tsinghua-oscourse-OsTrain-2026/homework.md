@@ -331,7 +331,4 @@ Github上实验仓库：
 #### 第1题
 填写选课问卷，然后回答是否已提交。
 
-+ [2026年秋季学期操作系统课选课问卷](http://oscourse2019.mikecrm.com/uNEDRhh)（访问密码：PkmG1kd1h）
-
-+ [2026秋季操作系统课选课问卷](http://oscourse2019.mikecrm.com/j5wEw5T)
-- （访问密码：`8e2JC8KFxq+Vere`）
++ [2026秋季操作系统课选课问卷](http://oscourse2019.mikecrm.com/j5wEw5T)（访问密码：`8e2JC8KFxq+Vere`）
