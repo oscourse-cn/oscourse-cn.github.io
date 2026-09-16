@@ -25,7 +25,7 @@
 
 | 周次    | 时间(可能微调)    | 教学安排    | 课堂视频 | 主讲教师    | 课后练习和实验    |
 | --- | --- | --- | --- | --- | --- |
-| 第一周    | 周二(20260915) |[第一节 课程概述 & 教学安排](https://learningos.cn/os-lectures/lec1/p1-intro.html) | [1.1](https://meeting.tencent.com/cw/KzA7ZY6Z22) | 向勇 | 第1次课后练习 |
+| 第一周    | 周二(20260915) |[第一节 课程概述 & 教学安排](https://learningos.cn/os-lectures/lec1/p1-intro.html) | [1.1](https://meeting.tencent.com/cw/KzA7ZY6Z22) | 向勇 | [第1次课后练习](homework.md#第1次课后练习第一周周一) |
 | | 周五(20260918) |  |          |          |                |
 | | 周日(20250920)：上09月25日（周五）的课 |  |          |          |                |
 | 第二周 | 周二(20260922) |  |          |          |                |
