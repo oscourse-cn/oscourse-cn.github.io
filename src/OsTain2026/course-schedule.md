@@ -19,7 +19,7 @@
 
 | 周次 | 时间(可能微调) | 幻灯片 | 主讲教师 | 课堂视频 | 课后练习 |
 | --- | --- | --- | --- | --- | --- |
-| 第一周 | 周一（20260914） | [第一讲 课程介绍](https://cloud.tsinghua.edu.cn/f/ce39a1cbf7b041b79f48/) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/KnAGXDRM21) |          |
+| 第一周 | 周一（20260914） | [第一讲 课程介绍](https://cloud.tsinghua.edu.cn/f/ce39a1cbf7b041b79f48/) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/KnAGXDRM21) | [第1次课后练习](homework.md#第1次课后练习第一周周一) |
 | | 周四（20260917） |          |          |          |  |
 | 第二周 | 周一（20260921） |          |          |          |  |
 | | 周四（20260924） |          |          |          |  |
