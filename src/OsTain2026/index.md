@@ -11,6 +11,9 @@
 + [课程通知](course-notification.md)
 + [选题协商](https://shimo.im/docs/ZzkLMjXp2bc9m5AQ)
 
+## 教学管理
++ [助教工作](https://shimo.im/docs/KrkElmErNxFmP8qJ)：只有老师和助教可以访问该文档；
+
 ## 课程交流和答疑
 [课程讨论区] （仅选课同学可以访问）
 
