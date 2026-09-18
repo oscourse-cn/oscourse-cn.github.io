@@ -291,9 +291,10 @@ Github上实验仓库：
 
 ##### 往年的优秀问答
 + [2023年优秀回答](https://www.yuque.com/xyong-9fuoz/qczol5/uzf18vbnscar3hzi#aad53)
+-->
 
-### 第2次课后练习（第一周周四）
-#### 第1题
+## 第2次课后练习（第一周周五）
+### 第1题
 熟练使用开发环境是顺利和高效完成操作系统课实验的必要条件。请从互联网搜索你需要的信息，以逐渐熟练使用qemu、shell、vim（也可以是其他你喜欢的代码编辑工具）和git等工具。然后回答如下问题。
 
 1. 简要介绍一个模拟器工具，并查找相关的配置使用帮助；
@@ -306,10 +307,10 @@ Github上实验仓库：
     - B站视频：计算机教育中缺失的一课 [The Missing Semester of Your CS Education](https://www.bilibili.com/video/BV1rU4y1h7Qr)
     - 【中字】[The Missing Semester 第1讲 - 课程概览与 Shell - MIT 公开课(2020)](https://www.bilibili.com/video/BV1Eo4y1d7KZ)
 
-##### 往年的优秀回答
+#### 往年的优秀回答
 + [2023年优秀回答](https://www.yuque.com/xyong-9fuoz/qczol5/uzf18vbnscar3hzi#BO7wm)
 
-#### 第2题
+### 第2题
 下面是一组使用系统调用服务的应用程序。请尝试运行和分析其中的一个你有兴趣小例子的执行过程，利用Linux系统中的[strace工具](https://zhuanlan.zhihu.com/p/69527356)来确定该应用程序在执行时调用了哪些系统调用。
 
 + [使用操作系统的系统调用服务的应用程序示例列表](https://pdos.csail.mit.edu/6.828/2021/lec/l-overview/)（出处：MIT的操作系统课）
@@ -323,11 +324,8 @@ Github上实验仓库：
     -  [pipe1.c](https://pdos.csail.mit.edu/6.828/2021/lec/l-overview/pipe1.c) 
     -  [pipe2.c](https://pdos.csail.mit.edu/6.828/2021/lec/l-overview/pipe2.c) 
     -  [redirect.c](https://pdos.csail.mit.edu/6.828/2021/lec/l-overview/redirect.c) 
--->
 
-
-
-## 第1次课后练习（第一周周一）
+## 第1次课后练习（第一周周二）
 ### 第1题
 填写选课问卷，然后回答是否已提交。
 
