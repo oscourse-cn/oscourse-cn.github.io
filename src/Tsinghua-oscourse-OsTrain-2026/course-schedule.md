@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 第一周    | 周二(20260915) |1.1 [课程概述 & 教学安排](https://learningos.cn/os-lectures/lec1/p1-intro.html) | [1.1](https://meeting.tencent.com/cw/KzA7ZY6Z22) | 向勇 | [第1次课后练习](homework.md#第1次课后练习第一周周二) |
 | | 周五(20260918) | 1.2 [什么是操作系统](https://learningos.github.io/os-lectures/lec1/p2-whatisos.html)<br>1.3 [操作系统历史演化](https://learningos.github.io/os-lectures/lec1/p3-oshistory.html)<br>1.4 [操作系统结构](https://learningos.github.io/os-lectures/lec1/p4-osarchitecture.html)<br>1.5 [实践：试试UNIX/Linux](https://learningos.github.io/os-lectures/lec1/p5-tryunix.html) | [1.2~1.5](https://meeting.tencent.com/cw/24pvQwEr17) | 向勇 | [第2次课后练习](homework.md#第2次课后练习第二周周五) |
-| | 周日(20250920)：上09月25日（周五）的课 |  |          |          |                |
+| | 周日(20250920)：上09月25日（周五）的课 | 2.1 [实践与实验简要分析](https://learningos.github.io/os-lectures/lec2/p1-labintro.html)<br>2.2 [Compiler与OS](https://learningos.github.io/os-lectures/lec2/p2-compiling.html)<br>2.3 [硬件启动与软件启动](https://learningos.github.io/os-lectures/lec2/p3-boot.html)<br>2.4 [实践：裸机程序-LibOS](https://learningos.github.io/os-lectures/lec2/p4-lab1.html) | [2.1~2.4](https://meeting.tencent.com/crm/KPmBMO4w80) | 向勇 |                |
 | 第二周 | 周二(20260922) |  |          |          |                |
 |     | 周五(20260925) | 中秋节假期 |          |          |                |
 | 第三周    | 周二(20260929) |  |          |          |                |
