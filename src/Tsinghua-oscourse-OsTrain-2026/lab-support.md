@@ -4,6 +4,18 @@
 - [2025秋季学期操作系统课实验帮助信息](https://www.yuque.com/xyong-9fuoz/qczol5/miqaip1ig4005ogm)
 - 2023春季学期的[实验讲解视频](https://www.yuque.com/xyong-9fuoz/qczol5/axrf11)
 
+## 实验代码仓库
+
+- uCore Tutorial
+  - [实验代码](https://github.com/LearningOS/uCore-Tutorial-Code/)
+  - [实验文档](https://learningos.github.io/uCore-Tutorial-Guide/)
+  - [测试用例](https://github.com/LearningOS/uCore-Tutorial-Test/)
+
+- rCore Tutorial
+  - [实验代码](https://github.com/LearningOS/rCore-Tutorial-Code/)
+  - [实验文档](https://learningos.github.io/rCore-Tutorial-Guide/)
+  - [测试用例](https://github.com/LearningOS/rCore-Tutorial-Test/)
+
 ## 编程工具的使用帮助
 [计算机教育中缺失的一课](https://missing-semester-cn.github.io)：精通这些工具不仅可以帮助您更快的使用工具完成任务，并且可以帮助您解决在之前看来似乎无比复杂的问题。
 
