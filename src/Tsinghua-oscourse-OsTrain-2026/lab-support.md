@@ -14,6 +14,7 @@
 - rCore Tutorial
   - [实验代码](https://github.com/LearningOS/rCore-Tutorial-Code/)
   - [实验文档](https://learningos.github.io/rCore-Tutorial-Guide/)
+    - [rCore-Tutorial-Book 第三版](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
   - [测试用例](https://github.com/LearningOS/rCore-Tutorial-Test/)
 
 ## 编程工具的使用帮助
