@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 第一周 | 周一（20260914） | [第一讲 课程介绍](https://cloud.tsinghua.edu.cn/f/ce39a1cbf7b041b79f48/) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/KnAGXDRM21) | [第1次课后练习](homework.md#第1次课后练习第一周周一) |
 | | 周四（20260917） | [选题协商](https://shimo.im/docs/ZzkLMjXp2bc9m5AQ) | 向勇、选课同学 | [课堂视频](https://meeting.tencent.com/cw/l7oaae3dc1) | [第2次课后练习](homework.md#第2次课后练习第一周周四) |
-| 第二周 | 周一（20260921） |          |          | [课堂视频] |  |
+| 第二周 | 周一（20260921） | 2.1 [组件化内核开发实践](https://cloud.tsinghua.edu.cn/f/1be0900bc2ad42e384ec/) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/24pX7P8r03) |  |
 | | 周四（20260924） |          |          | [课堂视频] |  |
 | 第三周 | 周一（20260928） |          |          | [课堂视频] |  |
 | | 周四（20261001） | 国庆假期 |  |  |  |
