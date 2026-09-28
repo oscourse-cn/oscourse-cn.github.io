@@ -22,8 +22,8 @@
 | 第一周 | 周一（20260914） | [第一讲 课程介绍](https://cloud.tsinghua.edu.cn/f/ce39a1cbf7b041b79f48/) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/KnAGXDRM21) | [第1次课后练习](homework.md#第1次课后练习第一周周一) |
 | | 周四（20260917） | [选题协商](https://shimo.im/docs/ZzkLMjXp2bc9m5AQ) | 向勇、选课同学 | [课堂视频](https://meeting.tencent.com/cw/l7oaae3dc1) | [第2次课后练习](homework.md#第2次课后练习第一周周四) |
 | 第二周 | 周一（20260921） | 2.1 [组件化内核开发实践](https://cloud.tsinghua.edu.cn/f/1be0900bc2ad42e384ec/) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/24pX7P8r03) |  |
-| | 周四（20260924） |          |          | [课堂视频] |  |
-| 第三周 | 周一（20260928） |          |          | [课堂视频] |  |
+| | 周四（20260924） | 2.2 [Linux 内核中的宏与代码复用](https://cloud.tsinghua.edu.cn/f/0186fdb1f56e441bb8f7/?dl=1)<br>2.3 [Rust-for-Linux 中的宏与代码复用](https://cloud.tsinghua.edu.cn/f/66109cf4514f4c9eb8ed/?dl=1)<br>2.4 [基于 Rust 的组件化内核](https://cloud.tsinghua.edu.cn/f/20d77a14a687485e9daa/?dl=1) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/l53b0GQr3b) |  |
+| 第三周 | 周一（20260928） | 信息工程大学 朱雨：[量超/量智融合计算系统QCFlow](https://github.com/QCFlow/QLLVM/blob/master/docs/%E9%87%8F%E8%B6%85%E9%87%8F%E6%99%BA%E8%9E%8D%E5%90%88%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9FQCFlow.pptx)<br>信息工程大学 周鑫：经典量子融合操作系统内核XoS-QC | 许瑾晨、朱雨、周鑫 | [课堂视频](https://meeting.tencent.com/crm/2je33w65d5) |  |
 | | 周四（20261001） | 国庆假期 |  |  |  |
 | 第四周 | 周一（20261005） | 国庆假期 |  |  |  |
 | | 周四（20261008） |          |          | [课堂视频] |  |
