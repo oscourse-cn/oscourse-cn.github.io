@@ -295,9 +295,7 @@ Github上实验仓库：
 ## 第3次课后练习（第三周周二）
 ### 第1题
 
-2026年秋季学期操作系统课实验题目问卷
-
-http://oscourse2019.mikecrm.com/vCfCXLT
+[2026年秋季学期操作系统课实验题目问卷](http://oscourse2019.mikecrm.com/vCfCXLT)
 
 访问密码：
 
