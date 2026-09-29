@@ -292,29 +292,58 @@ Github上实验仓库：
 ##### 往年的优秀问答
 + [2023年优秀回答](https://www.yuque.com/xyong-9fuoz/qczol5/uzf18vbnscar3hzi#aad53)
 -->
-### 第2次课后练习（第三周周二）
+### 第3次课后练习（第三周周二）
 #### 第1题
 
-实验任务选题问卷
+2026年秋季学期操作系统课实验题目问卷
+http://oscourse2019.mikecrm.com/vCfCXLT
+访问密码：
+S6G^vfsJ3ibV
 
-### 实验一（第一章、第二章、第三章）
-+ 实验任务： 
+#### 第2题
+
+本学期所有实验任务
+
++ uCore实验任务列表： 
     - [uCore实验第一章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/ucore-ch1-api.md)
-    - [rCore实验第一章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/rcore-ch1-api.md)
     - [uCore实验第二章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch2-api/ucore-ch2-api.md)
-    - [rCore实验第二章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/rcore-ch2-api.md)
     - [uCore实验第三章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch3-api/ucore-ch3-api.md)
+    - [uCore实验第四章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch4-api/ucore-ch4-api.md)
+    - [uCore实验第五章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch5-api/ucore-ch5-api.md)
+    - [uCore实验第六章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch6-api/ucore-ch6-api.md)
+    - [uCore实验第七章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch7-api/ucore-ch7-api.md)
+    - [uCore实验第八章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch8-api/ucore-ch8-api.md)
+    - [uCore实验第九章任务描述]
+
++ rCore实验任务列表： 
+    - [rCore实验第一章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/rcore-ch1-api.md)
+    - [rCore实验第二章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/rcore-ch2-api.md)
     - [rCore实验第三章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch3-api/rcore-ch3-api.md)
+    - [rCore实验第四章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch4-api/rcore-ch4-api.md)
+    - [rCore实验第五章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch5-api/rcore-ch5-api.md)
+    - [rCore实验第六章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch6-api/rcore-ch6-api.md)
+    - [rCore实验第七章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch7-api/rcore-ch7-api.md)
+    - [rCore实验第八章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch8-api/rcore-ch8-api.md)
+    - [rCore实验第九章任务描述]
+
+
 + 实验提交要求 
-    - 在课程注册时自动创建实验仓库中提交完整的代码和文档；
+    - 在课程注册时自动创建实验仓库中提交完整的代码、文档和实验过程记录；
     - 在荷塘雨课中提交实验一报告链接和commit ID；
-    - 实验截止时间：xxxx；
+    - 实验截止时间：由于每个同学的实验选择不同，同学们需自主安排自己的实验进展，并在约定的时间内提交实验结果；
+      - 实验一：第4周周日晚23点59分(2026年10月11日)；
+      - 实验二：第6周周日晚23点59分(2026年10月25日)；
+      - 实验三：第8周周日晚23点59分(2026年11月08日)；
+      - 实验四：第10周周日晚23点59分(2026年11月22日)；
+      - 实验五：第12周周日晚23点59分(2026年12月06日)；
+      - 综合实验：第14周周日晚23点59分(2026年12月20日)；
 
 #### 参考资料
+
 Github上实验仓库：
 
 + rCore
-    - 指导书：[https://learningos.cn/rCore-Tutorial-Guide/index.html](https://learningos.cn/rCore-Tutorial-Guide/index.html)
+    - 指导书：[https://rcore-os.cn/rCore-Tutorial-Book-v3/](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
     - 内核代码：[https://github.com/LearningOS/rCore-Tutorial-Code](https://github.com/LearningOS/rCore-Tutorial-Code)
     - 内核测试用例：[https://github.com/LearningOS/rcore-tutorial-test](https://github.com/LearningOS/rcore-tutorial-test)
 + uCore
