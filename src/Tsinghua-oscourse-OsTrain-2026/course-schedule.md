@@ -30,7 +30,7 @@
 | | 周日(20250920)：上09月25日（周五）的课 | 2.1 [实践与实验简要分析](https://learningos.github.io/os-lectures/lec2/p1-labintro.html)<br>2.2 [Compiler与OS](https://learningos.github.io/os-lectures/lec2/p2-compiling.html)<br>2.3 [硬件启动与软件启动](https://learningos.github.io/os-lectures/lec2/p3-boot.html)<br>2.4 [实践：裸机程序-LibOS](https://learningos.github.io/os-lectures/lec2/p4-lab1.html) | [2.1~2.4](https://meeting.tencent.com/crm/KPmBMO4w80) | 向勇 |                |
 | 第二周 | 周二(20260922) | 3.1 [从OS角度看计算机系统](https://learningos.cn/os-lectures/lec3/p1-osviewarch.html) | [3.1](https://meeting.tencent.com/crm/2amdPaWe85) | 向勇 |                |
 |     | 周五(20260925) | 中秋节假期 |          |          |                |
-| 第三周    | 周二(20260929) |  |          |          |                |
+| 第三周    | 周二(20260929) | 3.2 [从OS角度看RISC-V](https://learningos.github.io/os-lectures/lec3/p2-osviewrv.html)<br>3.3 [实践：批处理操作系统](https://learningos.github.io/os-lectures/lec3/p3-batchos.html) | [3.2~3.3](https://meeting.tencent.com/crm/NbQZkQq587) | 向勇 | [第3次课后练习](homework.md#第3次课后练习第三周周二) |
 | | 周五(20261002) | 国庆假期 |  |  |  |
 | 第四周    | 周二(20261006) | 国庆假期 |  |  |  |
 | | 周五(20261009) |  |          |          |                |
