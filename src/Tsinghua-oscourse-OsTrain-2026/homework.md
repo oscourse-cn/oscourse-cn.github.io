@@ -299,12 +299,12 @@ Github上实验仓库：
 
 ### 实验一（第一章、第二章、第三章）
 + 实验任务： 
-    - [uCore实验第一章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/README.md)
-    - [rCore实验第一章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/README.md)
-    - [uCore实验第二章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch2-api/README.md)
-    - [rCore实验第二章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/README.md)
-    - [uCore实验第三章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch3-api/README.md)
-    - [rCore实验第三章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch3-api/README.md)
+    - [uCore实验第一章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/ucore-ch1-api.md)
+    - [rCore实验第一章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/rcore-ch1-api.md)
+    - [uCore实验第二章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch2-api/ucore-ch2-api.md)
+    - [rCore实验第二章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/rcore-ch2-api.md)
+    - [uCore实验第三章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch3-api/ucore-ch3-api.md)
+    - [rCore实验第三章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch3-api/rcore-ch3-api.md)
 + 实验提交要求 
     - 在课程注册时自动创建实验仓库中提交完整的代码和文档；
     - 在荷塘雨课中提交实验一报告链接和commit ID；
