@@ -292,6 +292,36 @@ Github上实验仓库：
 ##### 往年的优秀问答
 + [2023年优秀回答](https://www.yuque.com/xyong-9fuoz/qczol5/uzf18vbnscar3hzi#aad53)
 -->
+### 第2次课后练习（第三周周二）
+#### 第1题
+
+实验任务选题问卷
+
+### 实验一（第一章、第二章、第三章）
++ 实验任务： 
+    - [uCore实验第一章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/README.md)
+    - [rCore实验第一章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/README.md)
+    - [uCore实验第二章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch2-api/README.md)
+    - [rCore实验第二章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/README.md)
+    - [uCore实验第三章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch3-api/README.md)
+    - [rCore实验第三章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch3-api/README.md)
++ 实验提交要求 
+    - 在课程注册时自动创建实验仓库中提交完整的代码和文档；
+    - 在荷塘雨课中提交实验一报告链接和commit ID；
+    - 实验截止时间：xxxx；
+
+#### 参考资料
+Github上实验仓库：
+
++ rCore
+    - 指导书：[https://learningos.cn/rCore-Tutorial-Guide/index.html](https://learningos.cn/rCore-Tutorial-Guide/index.html)
+    - 内核代码：[https://github.com/LearningOS/rCore-Tutorial-Code](https://github.com/LearningOS/rCore-Tutorial-Code)
+    - 内核测试用例：[https://github.com/LearningOS/rcore-tutorial-test](https://github.com/LearningOS/rcore-tutorial-test)
++ uCore
+    - 指导书：[https://learningos.cn/uCore-Tutorial-Guide/index.html](https://learningos.cn/uCore-Tutorial-Guide/index.html)
+    - 内核代码：[https://github.com/LearningOS/uCore-Tutorial-Code](https://github.com/LearningOS/uCore-Tutorial-Code)
+    - 内核测试用例：[https://github.com/LearningOS/ucore-tutorial-test](https://github.com/LearningOS/ucore-tutorial-test)
+
 
 ## 第2次课后练习（第一周周五）
 ### 第1题
