@@ -296,13 +296,14 @@ Github上实验仓库：
 #### 第1题
 
 2026年秋季学期操作系统课实验题目问卷
+
 http://oscourse2019.mikecrm.com/vCfCXLT
+
 访问密码：
+
 S6G^vfsJ3ibV
 
-#### 第2题
-
-本学期所有实验任务
+### 本学期所有实验任务（第三周周二）
 
 + uCore实验任务列表： 
     - [uCore实验第一章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/ucore-ch1-api.md)
