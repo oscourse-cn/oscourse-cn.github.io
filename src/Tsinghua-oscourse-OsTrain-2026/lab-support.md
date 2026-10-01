@@ -6,6 +6,14 @@
 
 ## 实验代码仓库
 
+- 2026年秋季学期操作系统课实验任务描述和参考实现仓库
+  - [uCore-Tutorial-Code-2026A](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/)
+  - [rCore-Tutorial-Code-2026A](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/)
+
+- 2026年秋季学期操作系统课实验任务参考实现的分析工具和报告仓库
+  - [nodefusion repo](https://github.com/LearningOS/nodefusion)
+  - [分析报告在线版本](https://learningos.cn/nodefusion/index.html)
+
 - uCore Tutorial
   - [实验代码](https://github.com/LearningOS/uCore-Tutorial-Code/)
   - [实验文档](https://learningos.github.io/uCore-Tutorial-Guide/)
