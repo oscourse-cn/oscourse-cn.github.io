@@ -26,7 +26,7 @@
 | 第三周 | 周一（20260928） | 信息工程大学 朱雨：[量超/量智融合计算系统QCFlow](https://github.com/QCFlow/QLLVM/blob/master/docs/%E9%87%8F%E8%B6%85%E9%87%8F%E6%99%BA%E8%9E%8D%E5%90%88%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9FQCFlow.pptx)<br>信息工程大学 周鑫：经典量子融合操作系统内核XoS-QC | 许瑾晨、朱雨、周鑫 | [课堂视频](https://meeting.tencent.com/crm/2je33w65d5) |  |
 | | 周四（20261001） | 国庆假期 |  |  |  |
 | 第四周 | 周一（20261005） | 国庆假期 |  |  |  |
-| | 周四（20261008） | 2.5 [Unikernel](https://cloud.tsinghua.edu.cn/f/71ff53c551db4132a51e/?dl=1) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/N8rWXPb5e4) |  |
+| | 周四（20261008） | 2.5 [Unikernel](https://cloud.tsinghua.edu.cn/f/71ff53c551db4132a51e/?dl=1) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/N8rWXPb5e4) | [第3次课后练习](homework.md#第3次课后练习第四周周四) |
 | 第五周 | 周一（20261012） | 中期报告 |          | [课堂视频] |  |
 | | 周四（20261015） |          |          | [课堂视频] |  |
 | 第六周 | 周一（20261019） |          |          | [课堂视频] |  |
