@@ -40,10 +40,7 @@
 
 第二节 [实践：多道程序与分时多任务操作系统](https://learningos.github.io/os-lectures/lec4/p2-labs.html)
 
-实验一 增加系统调用`sys_task_info()`
-
 ### 第五讲 物理内存管理
-[https://learningos.github.io/os-lectures/lec5-recap.html](https://learningos.github.io/os-lectures/lec5-recap.html)
 
 第一节 [地址空间](https://learningos.github.io/os-lectures/lec5/p1-memintro.html)
 
@@ -122,9 +119,6 @@
 第二节 [磁盘子系统](https://learningos.github.io/os-lectures/lec13/p2-disk.html)
 
 第三节 [支持device的OS（DOS）](https://learningos.github.io/os-lectures/lec13/p3-labs.html)
-
-### 第十四讲 日志的文件系统
-[https://learningos.github.io/os-lectures/lec14/slides.html](https://learningos.github.io/os-lectures/lec14/slides.html)
 
 ### 操作系统课所有幻灯片的汇总
 [https://learningos.github.io/os-lectures-mdbook/](https://learningos.github.io/os-lectures-mdbook/)：这个页面上的幻灯片格式并不是很美观，但把所有幻灯片都集中到一个页面上。
