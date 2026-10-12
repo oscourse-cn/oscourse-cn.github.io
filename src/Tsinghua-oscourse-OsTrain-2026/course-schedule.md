@@ -33,7 +33,7 @@
 | 第三周    | 周二(20260929) | 3.2 [从OS角度看RISC-V](https://learningos.github.io/os-lectures/lec3/p2-osviewrv.html)<br>3.3 [实践：批处理操作系统](https://learningos.github.io/os-lectures/lec3/p3-batchos.html) | [3.2~3.3](https://meeting.tencent.com/crm/NbQZkQq587) | 向勇 | [第3次课后练习](homework.md#第3次课后练习第三周周二) |
 | | 周五(20261002) | 国庆假期 |  |  |  |
 | 第四周    | 周二(20261006) | 国庆假期 |  |  |  |
-| | 周五(20261009) |  |          |          |                |
+| | 周五(20261009) | 4.1 [进程和进程模型](https://learningos.github.io/os-lectures/lec4/p1-multiprog.html)<br>4.2 [实践：多道程序与分时多任务操作系统](https://learningos.github.io/os-lectures/lec4/p2-labs.html) | [4.1~4.2](https://meeting.tencent.com/crm/2je9g8Xb9c) | 向勇 |                |
 | 第五周    | 周二(20261013) |  |          |          |                |
 | | 周五(20261016) |  |          |          |                |
 | 第六周    | 周二(20261020) |  |          |          |                |
