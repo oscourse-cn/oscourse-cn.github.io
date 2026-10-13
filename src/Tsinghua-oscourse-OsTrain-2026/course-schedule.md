@@ -34,7 +34,7 @@
 | | 周五(20261002) | 国庆假期 |  |  |  |
 | 第四周    | 周二(20261006) | 国庆假期 |  |  |  |
 | | 周五(20261009) | 4.1 [进程和进程模型](https://learningos.github.io/os-lectures/lec4/p1-multiprog.html)<br>4.2 [实践：多道程序与分时多任务操作系统](https://learningos.github.io/os-lectures/lec4/p2-labs.html) | [4.1~4.2](https://meeting.tencent.com/crm/2je9g8Xb9c) | 向勇 |                |
-| 第五周    | 周二(20261013) |  |          |          |                |
+| 第五周    | 周二(20261013) | 5.1 [地址空间](https://learningos.github.io/os-lectures/lec5/p1-memintro.html)<br>5.2 [ 内存分配](https://learningos.github.io/os-lectures/lec5/p2-memalloc.html) | [5.1~5.2](https://meeting.tencent.com/crm/lvBxMn4d19) | 向勇 |                |
 | | 周五(20261016) |  |          |          |                |
 | 第六周    | 周二(20261020) |  |          |          |                |
 | | 周五(20261023) |  |          |          |  |
