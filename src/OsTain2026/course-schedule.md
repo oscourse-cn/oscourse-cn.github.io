@@ -28,7 +28,7 @@
 | 第四周 | 周一（20261005） | 国庆假期 |  |  |  |
 | | 周四（20261008） | 2.5 [Unikernel](https://cloud.tsinghua.edu.cn/f/71ff53c551db4132a51e/?dl=1) | 向勇 | [课堂视频](https://meeting.tencent.com/crm/N8rWXPb5e4) | [第3次课后练习](homework.md#第3次课后练习第四周周四) |
 | 第五周 | 周一（20261012） | 第三讲: [并发与任务模型](https://cloud.tsinghua.edu.cn/f/0a99c8777b234405939c/?dl=1)（1）<br>中期报告<br>1.  相恒硕：[基于starry的机器人应用](https://github.com/RaSO4/OS_training_thu/blob/main/README.md)<br>2. 吴昊：[axpoll 内核组件：复现、测试与性能优化](https://github.com/haofanxingchen/-1/blob/main/%E5%90%B4%E6%98%8A%20%E4%B8%AD%E6%9C%9F%E6%B1%87%E6%8A%A5.pptx)<br>3. 周博宽：[AxVisor 中 axebpf 模块的架构分析与功能验证](https://docs.qq.com/slide/DSURQYUVPcEx2cXZQ)<br>4. 李悠然：[基于 ArceOS 的轻量级高性能防火墙 (axfirewall) 中期进展报告](https://github.com/AnonTokyo17/axfirewall/blob/main/docs/axfirewall%E4%B8%AD%E6%9C%9F%E6%8A%A5%E5%91%8A.pptx) | 向勇、相恒硕、吴昊、周博宽、李悠然 | [课堂视频](https://meeting.tencent.com/crm/KP6jdYP58d) |  |
-| | 周四（20261015） |          |          | [课堂视频] |  |
+| | 周四（20261015） | 第三讲: [并发与任务模型](https://cloud.tsinghua.edu.cn/f/0a99c8777b234405939c/?dl=1)（2） | 向勇 | [课堂视频](https://meeting.tencent.com/crm/2MYEvavy3c) |  |
 | 第六周 | 周一（20261019） |          |          | [课堂视频] |  |
 | | 周四（20261022） |          |          | [课堂视频] |  |
 | 第七周 | 周一（20261026） |          |          | [课堂视频] |  |
