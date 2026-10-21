@@ -4,7 +4,7 @@
 + [2024秋季学期操作系统课程幻灯片列表](https://www.yuque.com/xyong-9fuoz/qczol5/oqo14u60786offgg)
 + [2024春季学期操作系统课在线幻灯片链接](https://www.yuque.com/xyong-9fuoz/qczol5/ewvhdy3epbwbkn3n#DN21y)
 + [2023秋季学期操作系统课在线幻灯片链接](https://www.yuque.com/xyong-9fuoz/qczol5/ap9sac2dk7qq7bqy)
-+ 023春季学期操作系统课[在线幻灯片链接列表](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu)
++ [2023春季学期操作系统课在线幻灯片链接](https://www.yuque.com/xyong-9fuoz/qczol5/glemuu)
 
 ### 第一讲 操作系统概述
 第一节 [课程概述 & 教学安排](https://learningos.github.io/os-lectures/lec1/p1-intro.html)
@@ -33,8 +33,6 @@
 
 第三节 [实践：批处理操作系统](https://learningos.github.io/os-lectures/lec3/p3-batchos.html)
 
-第三节思考题
-
 ### 第四讲 多道程序与分时多任务
 第一节 [进程和进程模型](https://learningos.github.io/os-lectures/lec4/p1-multiprog.html)
 
@@ -54,8 +52,6 @@
 第二节 [局部页面置换算法](https://learningos.github.io/os-lectures/lec6/p2-localpagereplace.html)
 
 第三节 [全局页面置换算法](https://learningos.github.io/os-lectures/lec6/p3-globalpagereplace.html)
-
-实验二 [地址空间](https://learningos.github.io/os-lectures/lec6/p3-globalpagereplace.html?f=8#39)
 
 ### 第七讲 进程管理与单处理器调度
 第一节 [进程管理](https://learningos.github.io/os-lectures/lec7/p1-process-overview.html)
