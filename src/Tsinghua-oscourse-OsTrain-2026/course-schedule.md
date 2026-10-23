@@ -37,7 +37,7 @@
 | 第五周    | 周二(20261013) | 5.1 [地址空间](https://learningos.github.io/os-lectures/lec5/p1-memintro.html)<br>5.2 [ 内存分配](https://learningos.github.io/os-lectures/lec5/p2-memalloc.html) | [5.1~5.2](https://meeting.tencent.com/crm/lvBxMn4d19) | 向勇 |                |
 | | 周五(20261016) | 5.3 [实践：建立地址空间的OS](https://learningos.github.io/os-lectures/lec5/p3-labs.html) | [5.3](https://meeting.tencent.com/cw/N8r54JOw97) | 向勇 |                |
 | 第六周    | 周二(20261020) | 6.1 [虚拟存储概念](https://learningos.github.io/os-lectures/lec6/p1-vmoverview.html)<br>6.2 [局部页面置换算法](https://learningos.github.io/os-lectures/lec6/p2-localpagereplace.html) | [6.1~6.2](https://meeting.tencent.com/crm/KW6qqgoW17) | 向勇 |                |
-| | 周五(20261023) |  |          |          |  |
+| | 周五(20261023) | 6.3 [全局页面置换算法](https://learningos.github.io/os-lectures/lec6/p3-globalpagereplace.html)<br>7.1 [进程管理](https://learningos.github.io/os-lectures/lec7/p1-process-overview.html)(1) | [6.3~7.1](https://meeting.tencent.com/crm/24rXoBBwd6) | 向勇 |  |
 | 第七周    | 周二(20261027) |  |          |          |                |
 | | 周五(20261030) |  | |          |                |
 | 第八周    | 周二(20261103) |  |          |          |  |
