@@ -31,7 +31,7 @@
 | | 周四（20261015） | 第三讲: [并发与任务模型](https://cloud.tsinghua.edu.cn/f/0a99c8777b234405939c/?dl=1)（2） | 向勇 | [课堂视频](https://meeting.tencent.com/crm/2MYEvavy3c) |  |
 | 第六周 | 周一（20261019） | 洪世金： [StarryOS 的 perf 支持](https://oscourse-cn.github.io/os2events/2026/1019.html#%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6-%E6%B4%AA%E4%B8%96%E9%87%91-starryos-%E7%9A%84-perf-%E6%94%AF%E6%8C%81)<br>赵普明： [Auto/Rust 生态融合](https://oscourse-cn.github.io/os2events/2026/1019.html#%E6%83%A0%E5%B7%9E%E5%B8%82%E7%B4%A2%E7%BB%B4%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E8%B5%B5%E6%99%AE%E6%98%8E-autorust-%E7%94%9F%E6%80%81%E8%9E%8D%E5%90%88) | 洪世金、赵普明 | [课堂视频](https://meeting.tencent.com/cw/l6GQLqqm96) |  |
 | | 周四（20261022） | 第三讲: [并发与任务模型](https://cloud.tsinghua.edu.cn/f/0a99c8777b234405939c/?dl=1)（3） |  向勇  | [课堂视频](https://meeting.tencent.com/crm/NLOyWVJ6e0) |  |
-| 第七周 | 周一（20261026） |          |          | [课堂视频] |  |
+| 第七周 | 周一（20261026） | 第四讲：[更新同步机制RCU](https://cloud.tsinghua.edu.cn/f/1ec5d73bd55c4ddf8307/)（1）| 向勇 | [课堂视频](https://meeting.tencent.com/crm/24rJDjy824) |  |
 | | 周四（20261029） |          |          | [课堂视频] |  |
 | 第八周 | 周一（20261102） |          |          | [课堂视频] |  |
 | | 周四（20261105） |          |          | [课堂视频] |  |
