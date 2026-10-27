@@ -312,26 +312,26 @@ S6G^vfsJ3ibV
 - [分析报告在线版本](https://learningos.cn/nodefusion/index.html)
 
 uCore实验任务列表： 
-  - [uCore实验第一章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/ucore-ch1-api.md)
-  - [uCore实验第二章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch2-api/ucore-ch2-api.md)
-  - [uCore实验第三章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch3-api/ucore-ch3-api.md)
-  - [uCore实验第四章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch4-api/ucore-ch4-api.md)
-  - [uCore实验第五章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch5-api/ucore-ch5-api.md)
-  - [uCore实验第六章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch6-api/ucore-ch6-api.md)
-  - [uCore实验第七章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch7-api/ucore-ch7-api.md)
-  - [uCore实验第八章任务描述](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch8-api/ucore-ch8-api.md)
-  - [uCore实验第九章任务描述]
+  - ch1：[裸机 C 内核启动与 BSS 初始化](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch1-api/ucore-ch1-api.md)
+  - ch2：[用户态系统调用与异常处理](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch2-api/ucore-ch2-api.md)
+  - ch3：[多道程序与分时调度](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch3-api/ucore-ch3-api.md)
+  - ch4：[Sv39 页表与地址转换](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch4-api/ucore-ch4-api.md)
+  - ch5：[进程生命周期 API 实验](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch5-api/ucore-ch5-api.md)
+  - ch6：[文件对象与 inode 读写 API 实验](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch6-api/ucore-ch6-api.md)
+  - ch7：[管道通信与端点生命周期](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch7-api/ucore-ch7-api.md)
+  - ch8：[线程同步](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch8-api/ucore-ch8-api.md)
+  - ch9：[UART、virtio-blk 与 virtio-gpu 驱动](https://github.com/LearningOS/uCore-Tutorial-Code-2026A/blob/ch9-api/ucore-ch9-api.md)
 
 rCore实验任务列表： 
-  - [rCore实验第一章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/rcore-ch1-api.md)
-  - [rCore实验第二章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/rcore-ch2-api.md)
-  - [rCore实验第三章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch3-api/rcore-ch3-api.md)
-  - [rCore实验第四章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch4-api/rcore-ch4-api.md)
-  - [rCore实验第五章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch5-api/rcore-ch5-api.md)
-  - [rCore实验第六章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch6-api/rcore-ch6-api.md)
-  - [rCore实验第七章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch7-api/rcore-ch7-api.md)
-  - [rCore实验第八章任务描述](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch8-api/rcore-ch8-api.md)
-  - [rCore实验第九章任务描述]
+  - ch1：[裸机 Rust 程序的启动与运行](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch1-api/rcore-ch1-api.md)
+  - ch2：[用户程序、系统调用与异常处理](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch2-api/rcore-ch2-api.md)
+  - ch3：[任务管理](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch3-api/rcore-ch3-api.md)
+  - ch4：[页表与地址空间](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch4-api/rcore-ch4-api.md)
+  - ch5：[进程生命周期与 stride 调度](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch5-api/rcore-ch5-api.md)
+  - ch6：[文件、目录与硬链接管理](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch6-api/rcore-ch6-api.md)
+  - ch7：[管道通信与文件描述符共享](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch7-api/rcore-ch7-api.md)
+  - ch8：[线程同步与死锁检测](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch8-api/rcore-ch8-api.md)
+  - ch9：[UART、virtio-blk 与 virtio-gpu 驱动](https://github.com/LearningOS/rCore-Tutorial-Code-2026A/blob/ch9-api/rcore-ch9-api.md)
 
 
 实验提交要求 
