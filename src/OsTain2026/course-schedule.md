@@ -33,7 +33,7 @@
 | | 周四（20261022） | 第三讲: [并发与任务模型](https://cloud.tsinghua.edu.cn/f/0a99c8777b234405939c/?dl=1)（3） |  向勇  | [课堂视频](https://meeting.tencent.com/crm/NLOyWVJ6e0) |  |
 | 第七周 | 周一（20261026） | 第四讲：[更新同步机制RCU](https://cloud.tsinghua.edu.cn/f/1ec5d73bd55c4ddf8307/)（1）| 向勇 | [课堂视频](https://meeting.tencent.com/crm/24rJDjy824) |  |
 | | 周四（20261029） | 第四讲：[更新同步机制RCU](https://cloud.tsinghua.edu.cn/f/1ec5d73bd55c4ddf8307/)（2）| 向勇 | [课堂视频](https://meeting.tencent.com/crm/ldBjr0PJ51) |  |
-| 第八周 | 周一（20261102） |          |          | [课堂视频] |  |
+| 第八周 | 周一（20261102） | [Xenomai 3 Cobalt 的 C 与 Rust 实现对比：内核机制、实时性能与可靠性](../os2events/2026/1102.md) | 王广锋 | [课堂视频] |  |
 | | 周四（20261105） |          |          | [课堂视频] |  |
 | 第九周 | 周一（20261109） | 最终报告 |  | [课堂视频] |  |
 | 第十六周 |  |  | |  |  |
