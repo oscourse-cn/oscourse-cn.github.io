@@ -40,7 +40,7 @@
 | | 周五(20261023) | 6.3 [全局页面置换算法](https://learningos.github.io/os-lectures/lec6/p3-globalpagereplace.html)<br>7.1 [进程管理](https://learningos.github.io/os-lectures/lec7/p1-process-overview.html)(1) | [6.3~7.1](https://meeting.tencent.com/crm/24rXoBBwd6) | 向勇 |  |
 | 第七周    | 周二(20261027) | 7.1 [进程管理](https://learningos.github.io/os-lectures/lec7/p1-process-overview.html)(2)<br>7.2 [单处理器调度](https://learningos.github.io/os-lectures/lec7/p2-sched.html)<br>ch1口试 | [7.1~7.2](https://meeting.tencent.com/crm/KD6P8e6ad5) | 向勇 |                |
 | | 周五(20261030) | 7.3 [实时调度](https://learningos.github.io/os-lectures/lec7/p3-realtime.html)<br>7.4 [实践：支持进程的操作系统](https://learningos.github.io/os-lectures/lec7/p4-labs.html)<br>8.1 [对称多处理与多核架构](https://learningos.github.io/os-lectures/lec8/p1-multiprocessor-overview.html)<br>8.2 [多处理器调度概述](https://learningos.github.io/os-lectures/lec8/p2-multiprocessor-sched-overview.html) | [7.3~8.2](https://meeting.tencent.com/crm/2ZL0k0L790) | 向勇 |                |
-| 第八周    | 周二(20261103) |  |          |          |  |
+| 第八周    | 周二(20261103) | 8.3  [Linux O(1) 调度](https://learningos.github.io/os-lectures/lec8/p3-linux-O1-sched.html)<br>8.4 [Linux CFS 调度](https://learningos.github.io/os-lectures/lec8/p4-linux-cfs-sched.html) | [8.3~8.4](https://meeting.tencent.com/crm/Nb4pQky969) | 向勇 |  |
 | | 周五(20261106) |  |          |          |                |
 | 第九周    | 周二(20261110) |  |          |          |                |
 | | 周五(20261113) |  |          |          |                |
