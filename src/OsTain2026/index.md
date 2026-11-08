@@ -10,6 +10,7 @@
 + [课后练习](homework.md)
 + [课程通知](course-notification.md)
 + [选题协商](https://shimo.im/docs/ZzkLMjXp2bc9m5AQ)
++ [最终报告](lab-report.md)
 
 ## 教学管理
 + [助教工作](https://shimo.im/docs/KrkElmErNxFmP8qJ)：只有老师和助教可以访问该文档；
