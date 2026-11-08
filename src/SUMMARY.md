@@ -15,6 +15,7 @@
   - [课程安排](./OsTain2026/course-schedule.md)
   - [课程通知](./OsTain2026/course-notification.md)
   - [课后练习](./OsTain2026/homework.md)
+  - [最终报告](./OsTain2026/lab-report.md)
 - [开源操作系统社区活动](./os2events/index.md)
   - [20261102-开源操作系统社区技术报告：Xenomai 3 Cobalt 的 C 与 Rust 实现对比](./os2events/2026/1102.md)
   - [20261019-开源操作系统社区技术报告：基于Rust的内核与应用开发](./os2events/2026/1019.md)
