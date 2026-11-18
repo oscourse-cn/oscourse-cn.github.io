@@ -43,8 +43,8 @@
 | 第八周    | 周二(20261103) | 8.3  [Linux O(1) 调度](https://learningos.github.io/os-lectures/lec8/p3-linux-O1-sched.html)<br>8.4 [Linux CFS 调度](https://learningos.github.io/os-lectures/lec8/p4-linux-cfs-sched.html)<br>ch2口试 | [8.3~8.4](https://meeting.tencent.com/crm/Nb4pQky969) | 向勇 |  |
 | | 周五(20261106) | [综合实验选题要求](https://oscourse-cn.github.io/Tsinghua-oscourse-OsTrain-2026/homework.html#%E7%AC%AC4%E6%AC%A1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0%E7%AC%AC%E5%85%AB%E5%91%A8%E5%91%A8%E4%BA%94)<br>9.1 [文件和文件系统](https://learningos.github.io/os-lectures/lec9/p1-fsoverview.html) | [9.1](https://meeting.tencent.com/crm/lROVVY8J96) | 向勇 | [第4次课后练习](https://oscourse-cn.github.io/Tsinghua-oscourse-OsTrain-2026/homework.html#%E7%AC%AC4%E6%AC%A1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0%E7%AC%AC%E5%85%AB%E5%91%A8%E5%91%A8%E4%BA%94) |
 | 第九周    | 周二(20261110) | 9.2  [文件系统的设计与实现](https://learningos.github.io/os-lectures/lec9/p2-fsimplement.html)<br>9.3 [支持崩溃一致性的文件系统](https://learningos.github.io/os-lectures/lec9/p3-fsjournal.html)<br>[ch3口试](https://oscourse-cn.github.io/Tsinghua-oscourse-OsTrain-2026/homework.html#%E6%9C%AC%E5%AD%A6%E6%9C%9F%E6%89%80%E6%9C%89%E5%AE%9E%E9%AA%8C%E4%BB%BB%E5%8A%A1%E7%AC%AC%E4%B8%89%E5%91%A8%E5%91%A8%E4%BA%8C) |  [9.2~9.3](https://meeting.tencent.com/crm/2rrmvYRV0d) | 向勇 |                |
-| | 周五(20261113) |  |          |          |                |
-| 第十周    | 周二(20261117) |  |          |          |                |
+| | 周五(20261113) | 11.1 [线程](https://learningos.github.io/os-lectures/lec11/p1-thread.html)<br>11.2  [协程（Coroutine）](https://learningos.github.io/os-lectures/lec11/p2-coroutine.html) | [11.1~11.2](https://meeting.tencent.com/crm/l6Xv5zD0a8) | 向勇 |                |
+| 第十周    | 周二(20261117) | 11.3 [支持线程/协程的OS(TCOS)](https://learningos.github.io/os-lectures/lec11/p3-labs.html)<br>11.4  [关于任务模型的思考](https://learningos.cn/os-lectures/lec11/p4-taskmodel.html) | [11.3~11.4](https://meeting.tencent.com/crm/K0MmGBE7a8)<br>[ch4口试](https://meeting.tencent.com/crm/NLpwpLep2d) | 向勇 |                |
 | | 周五(20261120) |  |          |          |  |
 | 第十一周    | 周二(20261124) |  |  |          |                |
 | | 周五(20261127) |  |  |          |                |
@@ -52,4 +52,3 @@
 | | 周五(20261204) |  |  |          | |
 | 第十三周    | 周二(20261208) |  |  |  | |
 |  | 周五(20261211) |  | |          |  |
-
